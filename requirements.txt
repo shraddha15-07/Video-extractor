@@ -1,0 +1,4 @@
+pip freeze > requirements.txt
+git add .
+git commit -m "add README and requirements"
+git push
