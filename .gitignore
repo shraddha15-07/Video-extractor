@@ -1,8 +1,8 @@
 venv/
 .env
 __pycache__/
-*.pyc
 chroma_db/
 audio.mp3
 transcript.json
 notes.txt
+*.pyc

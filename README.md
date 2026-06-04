@@ -1,11 +1,10 @@
 # 🎬 Video Note Extractor
 
-An AI-powered web app that converts any YouTube video into 
-organized study notes automatically.
+An AI-powered web app that converts any YouTube video into organized study notes automatically.
 
 ## ✨ Features
 - 📝 Organized notes with headings and bullet points
-- ⏱️ Key timestamps of important moments  
+- ⏱️ Key timestamps of important moments
 - ✅ Action items extracted automatically
 - 💬 Q&A — ask any question about the video
 - 📄 Full transcript with every timestamp
@@ -29,9 +28,3 @@ organized study notes automatically.
 4. Install packages: `pip install -r requirements.txt`
 5. Create `.env` file and add: `GROQ_API_KEY=your_key_here`
 6. Run: `streamlit run app.py`
-
-## 📸 Demo
-[Add screenshot of your app here]
-
-## 👤 Built by
-Shraddha — built from scratch as an AI project
